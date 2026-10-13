@@ -329,6 +329,7 @@
 - [`Flipper Maker` Generate Flipper Zero files on the fly.](https://flippermaker.github.io/)
 - [`Flipper File Toolbox` Scripts for generating Flipper data files.](https://github.com/evilpete/flipper_toolbox)
 - [`Flipper Zero Syntax Highlighting` VSCode extension that will add syntax highlighting for Flipper Zero files.](https://marketplace.visualstudio.com/items?itemName=nortakales.flipper-zero-syntax-highlighting)
+- [`Universal RF Remote` Homey Pro app that replays Sub-GHz .sub files, turning captured 433 MHz remotes into smart home devices.](https://github.com/bosund/universal-rf-remote)
 
 ### *Converters*
 
